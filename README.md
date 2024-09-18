@@ -4,46 +4,26 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ```YAML
-name: AbhigyanTrips CI
+name: Carlos Enrique Ruiz Martinez
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+Profile:
+  Description:
+    Hello, I’m Carlos Ruiz, a DevOps, SysOps, and Cloud Engineer with solid experience in managing and optimizing cloud platforms, both in Azure and AWS. I currently work at Santander Digital Services, where I manage resources, implement automation, and ensure the security and scalability of cloud solutions. I’ve led key projects such as creating a CRM to optimize customer service, a data lake for advanced analysis, and implementing CMDBs to organize resources in public clouds.
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+Additionally, I have over three years of experience in migrating microservices to OpenShift, leading an SRE team to ensure efficient deployments and operational continuity. With certifications in AWS and experience in automation, IaC, and tools like Terraform, I have helped several organizations improve their infrastructure, performance, and security. My passion is working at the intersection of technology and efficiency, ensuring systems run optimally and securely
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    Contact:
+      - name: Chuck
+        Locations: Mexico City
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - email: carlos.ruizma@outlook.com/carlos.ruizma@hotmail.com
+        LinkedIn: https://www.linkedin.com/in/carlos-enrique-ruiz-mart%C3%ADnez-3506b3147/
         with:
           python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-
-      - name: Run AbhigyanTrips Class
-        run: |
-          echo "Creating class instance..."
-          python -c "
-class AbhigyanTrips():
-  def __init__(self):
-    self.name = 'Abhigyan Tripathi'
-    self.username = 'abhigyantrips'
-    self.location = 'Mumbai, India'
-    self.twitter = '@abhigyantrips'
-    self.web = 'https://abhigyantrips.dev'
-  def __str__(self):
-    return self.name
 ```
 
 <!--
