@@ -3,6 +3,48 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+```YAML
+name: AbhigyanTrips CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run AbhigyanTrips Class
+        run: |
+          echo "Creating class instance..."
+          python -c "
+class AbhigyanTrips():
+  def __init__(self):
+    self.name = 'Abhigyan Tripathi'
+    self.username = 'abhigyantrips'
+    self.location = 'Mumbai, India'
+    self.twitter = '@abhigyantrips'
+    self.web = 'https://abhigyantrips.dev'
+  def __str__(self):
+    return self.name
+```
 
 <!--
 **SmileDemon91/SmileDemon91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
