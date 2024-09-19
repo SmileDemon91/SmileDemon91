@@ -12,6 +12,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<h3 align="Right">Containers & Microservices:</h3>
+
+<p align="Right"><a href="https://openshift.com/" target="_blank" rel="openshift"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="git" width="40" height="40"/></a></p>
+
+
+
+
 ```YAML
 name: Carlos Enrique Ruiz Martinez
 
