@@ -5,9 +5,6 @@
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<br>
-<h3 align="Right">Control Version Tools:</h3>
-
 ```YAML
 name: Carlos Enrique Ruiz Martinez
 
@@ -52,7 +49,8 @@ ensuring systems run optimally and securely
         run: |
           python -m pip install --upgrade pip
 ```
-
+<br>
+<h3 align="Right">Control Version Tools:</h3>
 
 <!--
 **SmileDemon91/SmileDemon91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
