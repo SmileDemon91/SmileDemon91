@@ -53,7 +53,7 @@ Profile:
 <td width="50%" align="center">
   <img  align="left"  src="" />
   <br></br>
-  <img  title="" alt="Mark streak" src="" /> 
+  <img  title="Control Version Tools" alt="Control Version Tools" src="" />
 </td>
   
 <td width="50%" align="center">
