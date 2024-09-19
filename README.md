@@ -71,25 +71,6 @@ Profile:
 </tr>
 </table>
 
-------
-
-<div align="left">
-  <h3>Control Version Tools:</h3>
-    <p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://gitlab.com/" target="_blank" rel="gitlab"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="github"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com/" target="_blank" rel="github"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-repos.svg" alt="git" width="40" height="40"/></a></p>
-</div>
-
-<div align="left">
-  <h3>CI/CD Tools:</h3>
-    <p><a href="https://jenkins.com/" target="_blank" rel="jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docs.github.com/es/actions" target="_blank" rel="ghactions"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com" target="_blank" rel="azpipeline"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-pipelines.svg" alt="git" width="40" height="40"/></a></p>  
-</div>
-
-<div align="left">
-  <h3>Containers & Microservices:</h3>
-    <p><a href="https://openshift.com/" target="_blank" rel="openshift"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docker.io/" target="_blank" rel="Docker"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="git" width="40" height="40"/></a><a href="https://kubernetes.io/" target="_blank" rel="Kubernetes"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="git" width="40" height="40"/></a></p>
-</div>
-
---------
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
