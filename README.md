@@ -6,8 +6,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3 align="Right">Control Version Tools:</h3>
-
 ```YAML
 name: Carlos Enrique Ruiz Martinez
 
