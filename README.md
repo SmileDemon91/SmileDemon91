@@ -53,7 +53,7 @@ Profile:
 <td width="50%" align="center">
   <h3>Control Version Tools</h3>
   <br></br>
-  <p>Control Version Tools"</p>
+  <p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://gitlab.com/" target="_blank" rel="gitlab"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="github"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com/" target="_blank" rel="github"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-repos.svg" alt="git" width="40" height="40"/></a></p>
 </td>
   
 <td width="50%" align="center">
