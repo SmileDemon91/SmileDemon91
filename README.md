@@ -51,7 +51,7 @@ Profile:
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="" />
+  <h3>Control Version Tools</h3>
   <br></br>
   <p>Control Version Tools"</p>
 </td>
