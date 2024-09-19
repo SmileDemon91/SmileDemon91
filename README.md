@@ -53,7 +53,7 @@ Profile:
 <td width="50%" align="center">
   <img  align="left"  src="" />
   <br></br>
-  <img  title="Control Version Tools" alt="Control Version Tools" src="" />
+  <p>Control Version Tools"</p>
 </td>
   
 <td width="50%" align="center">
