@@ -51,7 +51,7 @@ ensuring systems run optimally and securely
           python -m pip install --upgrade pip
 ```
 <br>
-<h3 align="rigth">Control Version Tools:</h3>
+<h3 align="left">Control Version Tools:</h3>
 
 <!--
 **SmileDemon91/SmileDemon91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
