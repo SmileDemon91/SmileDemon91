@@ -48,7 +48,7 @@ Profile:
           python -m pip install --upgrade pip
 ```
 
-<h3 style="display: inline;">Titulo 1</h3> <h3 style="display: inline; margin-left: 20px;">Titulo 2</h3>
+<h3 style="display: inline;">Titulo 1</h3> <h3 style="display: inline; margin-left: 20;">Titulo 2</h3>
 
 
 <div align="left">
