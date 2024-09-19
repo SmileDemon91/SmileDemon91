@@ -47,10 +47,14 @@ Profile:
           python -m pip install --upgrade pip
 ```
 
-<p align="left">Control Version Tools:</p> <p align="center">CI/CD Tools:</p> <p align="Right">Containers & Microservices:</p>
+<h3 align="rigth">Control Version Tools:</h3>  
 
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://gitlab.com/" target="_blank" rel="gitlab"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="github"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com/" target="_blank" rel="github"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-repos.svg" alt="git" width="40" height="40"/></a></p>
+<p align="rigth"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://gitlab.com/" target="_blank" rel="gitlab"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="github"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com/" target="_blank" rel="github"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-repos.svg" alt="git" width="40" height="40"/></a></p>
+
+<p align="center">CI/CD Tools:</p>
 
 <p align="center"><a href="https://jenkins.com/" target="_blank" rel="jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docs.github.com/es/actions" target="_blank" rel="ghactions"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com" target="_blank" rel="azpipeline"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-pipelines.svg" alt="git" width="40" height="40"/></a></p>
+
+<p align="Right">Containers & Microservices:</p>
 
 <p align="Right"><a href="https://openshift.com/" target="_blank" rel="openshift"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="git" width="40" height="40"/></a></p>
