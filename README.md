@@ -8,18 +8,31 @@ name: Carlos Enrique Ruiz Martinez
 
 Profile:
   Description:
-    Hello, I’m Carlos Ruiz, a DevOps, SysOps,
-    and Cloud Engineer with solid experience in managing and optimizing cloud platforms,
-      both in Azure and AWS. I currently work at Santander Digital Services,
-      where I manage resources, implement automation, and ensure the security and scalability of cloud solutions.
-    I’ve led key projects such as creating a CRM to optimize customer service, a data lake for advanced analysis,
-    and implementing CMDBs to organize resources in public clouds.
+Hello, I’m Carlos Ruiz, a DevOps, SysOps,
+and Cloud Engineer with solid experience
+in managing and optimizing cloud platforms,
+both in Azure and AWS. I currently work at
+Santander Digital Services, where I manage
+resources, implement automation, and ensure
+the security and scalability of cloud solutions.
+I’ve led key projects such as creating a CRM
+to optimize customer service, a data lake for
+advanced analysis, and implementing CMDBs
+to organize resources in public clouds.
 
-    Additionally, I have over three years of experience in migrating microservices to OpenShift,
-      leading an SRE team to ensure efficient deployments and operational continuity.
-      With certifications in AWS and experience in automation, IaC, and tools like Terraform,
-    I have helped several organizations improve their infrastructure, performance, and security.
-    My passion is working at the intersection of technology and efficiency, ensuring systems run optimally and securely
+Additionally, I have over three years of
+experience in migrating microservices to
+OpenShift, leading an SRE team to ensure
+efficient deployments and operational
+continuity.
+
+With certifications in AWS and experience
+in automation, IaC, and tools like Terraform,
+I have helped several organizations improve
+their infrastructure, performance, and security.
+My passion is working at the intersection
+of technology and efficiency,
+ensuring systems run optimally and securely
 
     Contact:
       - name: Chuck
