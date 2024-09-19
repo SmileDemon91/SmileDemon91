@@ -1,3 +1,7 @@
+<h1><p align='center'>Hello Everyone <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1></p>
+
+<p align='center'><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Azure+Cloud+Engineer+;Azure+DevOps+Engineer;SiteRealability+Engineer;AWS+Cloud+Engineer;Always+learning+new+things"></a></p>
+
 ```YAML
 name: Carlos Enrique Ruiz Martinez
 
@@ -42,11 +46,6 @@ ensuring systems run optimally and securely
         run: |
           python -m pip install --upgrade pip
 ```
-
-<h1><p align='center'>Hello Everyone <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1></p>
-
-<p align='center'><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Azure+Cloud+Engineer+;Azure+DevOps+Engineer;SiteRealability+Engineer;AWS+Cloud+Engineer;Always+learning+new+things"></a></p>
-
 <h3 align="Right">Control Version Tools:</h3>
 
 <p align="Right"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://gitlab.com/" target="_blank" rel="gitlab"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="github"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com/" target="_blank" rel="github"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-repos.svg" alt="git" width="40" height="40"/></a></p>
