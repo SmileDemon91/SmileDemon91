@@ -82,6 +82,8 @@ Profile:
     <p><a href="https://openshift.com/" target="_blank" rel="openshift"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docker.io/" target="_blank" rel="Docker"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="git" width="40" height="40"/></a><a href="https://kubernetes.io/" target="_blank" rel="Kubernetes"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="git" width="40" height="40"/></a></p>
 </div>
 
+--------
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
