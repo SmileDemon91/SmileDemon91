@@ -48,7 +48,7 @@ Profile:
           python -m pip install --upgrade pip
 ```
 
-<table align="left">
+<table align="right">
 <tr border="none">
 <td width="50%" align="center">
   <h3>Control Version Tools</h3>
