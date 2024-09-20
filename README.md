@@ -62,13 +62,11 @@ Profile:
   <p><a href="https://jenkins.com/" target="_blank" rel="jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docs.github.com/es/actions" target="_blank" rel="ghactions"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com" target="_blank" rel="azpipeline"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-pipelines.svg" alt="git" width="40" height="40"/></a></p>
   </td>
 
-
 <td width="50%" align="center">
   <h3>Containers & Microservices</h3>
   <br></br>
   <p><a href="https://openshift.com/" target="_blank" rel="openshift"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docker.io/" target="_blank" rel="Docker"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="git" width="40" height="40"/></a><a href="https://kubernetes.io/" target="_blank" rel="Kubernetes"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="git" width="40" height="40"/></a></p>
   </td>
-</tr>
 
 <td width="50%" align="center">
   <h3>Monitoring</h3>
