@@ -73,7 +73,7 @@ Profile:
 <td width="50%" align="center">
   <h3>Monitoring</h3>
   <br></br>
-  <p><a href="https://grafana.com/" target="_blank" rel="grafana"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="git" width="40" height="40"/></a><a href="https://dynatrace.com/" target="_blank" rel="dynatrace"> <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.sonarsource.com" target="_blank" rel="SonarQube"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sonarqube/sonarqube-line-wordmark.svg" alt="git" width="40" height="40"/></a></p>
+  <p><a href="https://grafana.com/" target="_blank" rel="grafana"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="git" width="40" height="40"/></a><a href="https://dynatrace.com/" target="_blank" rel="dynatrace"> <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.sonarsource.com" target="_blank" rel="SonarQube"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sonarqube/sonarqube-line-wordmark.svg" alt="git" width="40" height="40"/></a><a href="https://portal.azure.com" target="_blank" rel="AZMonitor"> <img src="https://raw.githubusercontent.com/cncf/landscape/21eb9fd9615b6dd59c6cc91daaefb653dac481d6/hosted_logos/azure-monitor.svg" alt="git" width="40" height="40"/></a></p>
   </td>
 </tr>
 </table>
