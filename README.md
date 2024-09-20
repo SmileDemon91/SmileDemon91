@@ -60,7 +60,7 @@ Profile:
   <h3>CI/CD Tools</h3>
   <br></br>
   <p><a href="https://jenkins.com/" target="_blank" rel="jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="git" width="40" height="40"/></a><a href="https://docs.github.com/es/actions" target="_blank" rel="ghactions"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a><a href="https://dev.azure.com" target="_blank" rel="azpipeline"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/azure-pipelines.svg" alt="git" width="40" height="40"/></a></p>
-  </tr>
+  </td>
 
 
 <td width="50%" align="center">
